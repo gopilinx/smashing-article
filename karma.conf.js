@@ -34,7 +34,7 @@ module.exports = function(config) {
     },
 
     coverageReporter: {
-      // type : 'html',
+      type : 'lcov',
       type : 'text-summary',
       dir : 'coverage/'
     },

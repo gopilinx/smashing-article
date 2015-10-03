@@ -4,11 +4,20 @@
   "description": "smashing-article ================",
   "main": "index.js",
   "devDependencies": {
-    "karma-coverage": "~0.2.4",
-    "karma-mocha": "~0.1.6",
-    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-coverage": "~0.5.2",
+    "karma-mocha": "~0.2.0",
+    "karma-phantomjs-launcher": "~0.2.1",
     "karma-sinon-chai": "~0.2.0",
-    "mocha": "~1.20.1"
+    "mocha": "~2.3.3",
+    "karma": "~0.13.10",
+    "sinon-chai": "~2.8.0",
+    "chai": "~3.3.0",
+    "sinon": "~1.17.1",
+    "karma-chai-sinon": "~0.1.5",
+    "karma-chai-plugins": "~0.6.0",
+    "phantomjs": "~1.9.18",
+    "angular": "~1.4.7",
+    "angular-mocks": "~1.4.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

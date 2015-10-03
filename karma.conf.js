@@ -48,7 +48,7 @@ module.exports = function(config) {
         { type: 'text', subdir: '.', file: 'text.txt' },
         { type: 'text-summary', subdir: '.', file: 'text-summary.txt' },
       ]
-    }
+    },
 
     // test results reporter to use
     // possible values: 'dots', 'progress'

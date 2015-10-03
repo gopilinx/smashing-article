@@ -17,7 +17,8 @@
     "karma-chai-plugins": "~0.6.0",
     "phantomjs": "~1.9.18",
     "angular": "~1.4.7",
-    "angular-mocks": "~1.4.7"
+    "angular-mocks": "~1.4.7",
+    "karma-junit-reporter": "~0.3.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
